@@ -1,0 +1,15 @@
+specINTI_editor_manual_de ist das Hauptdokument 
+
+specINTI_editor_quickmanual_de ist eine Kurzfassung vom Hauptdokument
+
+specINTI_help_de beschreibt die wichtigsten Funktionen von specINTI ein Auszug aus dem Hauptdokment
+
+specINTI_Toolbox2_de ist ein Auszug aus dem Hauptdokument mit zahlreichen Tipps und Tricks
+
+Specinti_Aufbau_DE beschreibt den Aufbau von specINTI
+
+HR_Spektren_bearbeiten_DE Kurzfassung beschreibt das Auswerten von hochauflösenden (HR) Spektren, z.B. um H-alpha
+
+LR_Spektren_bearbeiten_DE Kurzfassung beschreibt das Auswerten von niedrigauflösenden Spektren, z.B. von 4000-7000 Angtröm
+
+StarEX_justieren-einstellen_de beschreibt das Justieren und Einstellen des Star'Ex zur Spektrengewinnung
