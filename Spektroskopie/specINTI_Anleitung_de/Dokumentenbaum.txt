@@ -1,15 +1,22 @@
-specINTI_editor_manual_de ist das Hauptdokument 
+Die Anleitungen stammen zum Teil aus dem Spektroskopie-Workshop 2025 am Observatorium Haute Provence und waren in französisch. 
+Diese Anleitungen für das Programm specINTI zur Auswertung von Spektren wurden mit DeepL ins Deutsche Übersetzt.
 
-specINTI_editor_quickmanual_de ist eine Kurzfassung vom Hauptdokument
+Die Auswertung bezieht sich auf den Star'Ex Spektrographen aus dem 3D-Drucker von Christian Buil, geht aber auch mit anderen Spalt-Spektrographen.
 
-specINTI_help_de beschreibt die wichtigsten Funktionen von specINTI ein Auszug aus dem Hauptdokment
+Das Hauptdokument ist specINTI_editor_manual_de (170 S) aus der Webseite von Christian Buil.
 
-specINTI_Toolbox2_de ist ein Auszug aus dem Hauptdokument mit zahlreichen Tipps und Tricks
+Andere Dokumente sind Auszüge oder Kurzfassungen des Hauptdokuments und überlappen sich teilweise.
 
-Specinti_Aufbau_DE beschreibt den Aufbau von specINTI
+specINTI_editor_quickmanual_de ist eine Kurzfassung vom Hauptdokument.
 
-HR_Spektren_bearbeiten_DE Kurzfassung beschreibt das Auswerten von hochauflösenden (HR) Spektren, z.B. um H-alpha
+specINTI_help_de ein Auszug aus dem Hauptdokument und beschreibt die wichtigsten Funktionen von specINTI.
 
-LR_Spektren_bearbeiten_DE Kurzfassung beschreibt das Auswerten von niedrigauflösenden Spektren, z.B. von 4000-7000 Angtröm
+specINTI_Toolbox2_de ist ein Auszug aus dem Hauptdokument mit zahlreichen Tipps und Tricks.
 
-StarEX_justieren-einstellen_de beschreibt das Justieren und Einstellen des Star'Ex zur Spektrengewinnung
+Specinti_Aufbau_DE beschreibt den Aufbau von specINTI.
+
+HR_Spektren_Quick_DE Kurzfassung beschreibt das Auswerten von hochauflösenden (HR) Spektren, z.B. um H-Alpha.
+
+LR_Spektren_Quick_DE Kurzfassung beschreibt das Auswerten von niedrigauflösenden Spektren, z.B. von 4000-7000 Angström.
+
+StarEX_justieren-einstellen_de beschreibt das Justieren und Einstellen des Star'Ex zur Spektrengewinnung.
